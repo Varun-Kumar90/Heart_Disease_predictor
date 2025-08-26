@@ -1,4 +1,4 @@
-Disease Detector
+🧬 Disease Detector
 📌 Overview
 
 The Disease Detector is a machine learning project aimed at predicting diseases based on patient health data. By applying classification algorithms, the model analyzes symptoms and medical attributes to provide predictions that may support healthcare diagnostics.
@@ -17,7 +17,7 @@ Saving/exporting trained models for reuse
 
 Interactive and easy-to-follow implementation through Jupyter Notebook
 
-🛠️ Technologies Used
+🔍 Technologies Used
 
 Python 3.x
 
@@ -76,7 +76,7 @@ Evaluate results with metrics like accuracy and confusion matrix
 
 Save trained models for future use
 
-🔮 Future Enhancements
+💻 Future Enhancements
 
 Develop a Streamlit Web App for better user interaction
 
@@ -85,3 +85,13 @@ Expand the dataset to cover more diseases
 Integrate Deep Learning models for improved accuracy
 
 Deploy on cloud platforms such as AWS, GCP, or Heroku
+
+✍️ Author
+
+Varun Kumar
+B.Tech Computer Science Student (2023–2027)
+Chandigarh Group of Colleges, Landran
+
+📧 Email: varun.chaudhary0025@gmail.com
+🔗 GitHub: https://github.com/Varun-Kumar90
+💼 LinkedIn: https://www.linkedin.com/in/varun-kumar-a35301315/
