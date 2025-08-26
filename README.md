@@ -1,4 +1,5 @@
 🧬 Disease Detector
+
 📌 Overview
 
 The Disease Detector is a machine learning project aimed at predicting diseases based on patient health data. By applying classification algorithms, the model analyzes symptoms and medical attributes to provide predictions that may support healthcare diagnostics.
@@ -31,10 +32,15 @@ Joblib → Saving and loading trained models
 
 📂 Project Structure
 Disease_Detector/
+
 │── Disease_Detector.ipynb   # Main Jupyter Notebook
+
 │── requirements.txt         # Dependencies
+
 │── README.md                # Project documentation
+
 │── models/                  # Saved ML models
+
 │── data/                    # Dataset (if available)
 
 ⚙️ Installation
@@ -49,6 +55,7 @@ Create and activate a virtual environment (recommended):
 
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
+
 venv\Scripts\activate      # On Windows
 
 
@@ -93,5 +100,7 @@ B.Tech Computer Science Student (2023–2027)
 Chandigarh Group of Colleges, Landran
 
 📧 Email: varun.chaudhary0025@gmail.com
+
 🔗 GitHub: https://github.com/Varun-Kumar90
+
 💼 LinkedIn: https://www.linkedin.com/in/varun-kumar-a35301315/
